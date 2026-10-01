@@ -49,6 +49,8 @@ Data was collected using the `yfinance` API covering daily adjusted closing pric
 > - **Balanced:** `-13.59%`
 > - **Dynamic:** `-15.17%` *(Cross-asset correlation converged to 1)*
 
+![Graphique des performances](performance_chart.png)
+
 ---
 
 ## Key Limitations & Takeaways / Limites et enseignements
