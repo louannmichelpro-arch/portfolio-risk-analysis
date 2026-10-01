@@ -5,7 +5,7 @@ This quantitative finance project evaluates the risk and return profiles of thre
 
 The study measures tail risk, historical drawdowns, and portfolio resilience during major market disruptions, specifically the **March 2020 COVID-19 crash** and the **2022 inflationary rate-hike shock**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TON_PSEUDO/TON_REPO/blob/main/risque_portefeuilles.ipynb)
+[[![Open In Colab](https://colab.research.google.com/drive/1ct65TeV1i6_LHAO9qSvxDGAvEAhlcUey#scrollTo=xIhRJ-433yA2)
 ---
 
 ## Asset Allocation & Portfolio Construction / Allocation d'actifs
