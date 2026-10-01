@@ -1,10 +1,11 @@
-# Portfolio Risk Analysis & Stress Testing (2016–2026)
+# 📊Portfolio Risk Analysis & Stress Testing (2016–2026)
 
 ## Overview / Présentation
 This quantitative finance project evaluates the risk and return profiles of three benchmark multi-asset portfolios (**Conservative**, **Balanced**, and **Dynamic**) constructed using ETFs across different asset classes.
 
 The study measures tail risk, historical drawdowns, and portfolio resilience during major market disruptions, specifically the **March 2020 COVID-19 crash** and the **2022 inflationary rate-hike shock**.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TON_PSEUDO/TON_REPO/blob/main/risque_portefeuilles.ipynb)
 ---
 
 ## Asset Allocation & Portfolio Construction / Allocation d'actifs
@@ -59,5 +60,4 @@ Data was collected using the `yfinance` API covering daily adjusted closing pric
 
 ## Tech Stack / Technologies
 * **Language**: Python
-* **Libraries**: `yfinance`, `pandas`, `numpy`, `scipy`, `matplotlib`# portfolio-risk-analysis
-Multi-asset portfolio risk analysis, VaR calculations, and stress testing (2016-2026) using Python.
+* **Libraries**: `yfinance`, `pandas`, `numpy`, `scipy`, `matplotlib`
